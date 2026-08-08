@@ -1,0 +1,22 @@
+{
+  "name": "RoamAI 台灣智慧旅遊規劃器",
+  "short_name": "RoamAI 旅遊",
+  "description": "單一提示詞 AI 旅遊行程規劃器，專為台灣國內旅遊打造。",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#0f172a",
+  "theme_color": "#0f172a",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/826/826070.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/826/826070.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
